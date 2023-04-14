@@ -35,21 +35,21 @@ export const Home = () => {
                 </div>
               </div>
               <div className="searchDivs">
-                <img src="https://i.ibb.co/FqN8fT6/Alok-kumar.jpg" alt="" />
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMevJFZGY1xvPjPoTIoeQtYtBEr9W9ciCdSeYnh0fj9w_D8I6BWgCEYYlSccFJOucreuw&usqp=CAU" alt="" />
                 <div style={{marginTop:"10px"}}>
                   <p>Indonesia UX Resea...</p>
                   <p  className="members">73 Members</p>
                 </div>
               </div>
               <div className="searchDivs">
-                <img src="https://i.ibb.co/FqN8fT6/Alok-kumar.jpg" alt="" />
+                <img src="https://www.shutterstock.com/image-photo/beautiful-female-dummy-profile-260nw-2063312.jpg" alt="" />
                 <div style={{marginTop:"10px"}}>
                   <p>Prototyping Club</p>
                   <p  className="members">744 Members</p>
                 </div>
               </div>
               <div className="searchDivs">
-                <img src="https://i.ibb.co/FqN8fT6/Alok-kumar.jpg" alt="" />
+                <img src="https://impulse.aarafacademy.com/uploads/samples/b1.jpg" alt="" />
                 <div style={{marginTop:"10px"}}>
                   <p>Indonesia UI Designer</p>
                   <p  className="members">704 Members</p>

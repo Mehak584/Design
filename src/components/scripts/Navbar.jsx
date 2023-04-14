@@ -3,7 +3,6 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faBell,
   faCommentDots,
-  faGraduationCap,
   faHouseChimney,
   faSortDown,
   faToolbox,
@@ -47,20 +46,7 @@ export const Navbar = () => {
               <FontAwesomeIcon className="fa-icon" icon={faBell} />
               <h4 className="text">Notification</h4>
             </Link>
-            {/* <div className="navLeftSide">
-              <div className="logo">
-                <img
-                  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png"
-                  alt="linkedin logo"
-                />
-              </div>
-              <input className="inputField" type="text" placeholder="Search" />
-            </div> */}
-
             <div className="navAvatarDiv">
-              {/* <FontAwesomeIcon icon="fa-solid fa-user-large" /> */}
-              {/* <FontAwesomeIcon className="fa-icon" icon={faUserLarge} /> */}
-
               <img
                 className="avatar"
                 src="https://i.ibb.co/FqN8fT6/Alok-kumar.jpg"
@@ -72,10 +58,6 @@ export const Navbar = () => {
             </div>
           </div>
           <div className="navRightSide">
-            {/* <div>
-              <FontAwesomeIcon className="fa-icon" icon={faGraduationCap} />
-              <h4 className="text">Works</h4>
-            </div> */}
           </div>
         </div>
       </nav>
